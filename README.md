@@ -3,6 +3,8 @@
 
 - 📫 How to reach me **yazeedam2004@gmail.com**
 
+![](https://komarev.com/ghpvc/?username=yazeed-01&color=green)
+
 <p align="left">
 
 
