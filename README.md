@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yazeed</h1>
-<h3 align="center">Software engineer with expertise in designing and implementing software architectures and patterns, as well as back-end development for mobile and web applications. Currently in the design and coding phase.</h3>
+<h3 align="center">Software engineer with expertise in designing and implementing software architectures and patterns, as well as back-end development for web applications. Currently in the design and coding phase.</h3>
 
 - 📫 How to reach me **yazeedam2004@gmail.com**
 
