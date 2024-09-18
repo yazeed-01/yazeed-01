@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yazeed</h1>
 <h3 align="center">Software engineer with expertise in designing and implementing software architectures and patterns, as well as back-end development for web applications. Currently in the design and coding phase.</h3>
 
-- 📫 How to reach me **yazeedam2004@gmail.com**
+
 
 ![](https://komarev.com/ghpvc/?username=yazeed-01&color=grey&style=flat-square)
 
